@@ -1,3 +1,3 @@
-# personal_projects
-Personal projects repository, mainly focussed on data visualisation in sports (motorsport, association football, basketball, etc.)
-_WIP_
+# Formula1 Scripts, Data and Figs
+
+Data analysis + viz for the FormulaOne championship.
